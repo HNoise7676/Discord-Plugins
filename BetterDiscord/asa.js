@@ -1,11 +1,10 @@
-
 /**
      * @name Account status adult
      * @author HNoise7676
      * @description all this script does is change your account verification status from unknown to adult letting you access age locked discord servers without needing to show your id (we all know why we don't share it)
-     * @version 1
+     * @version 1.0.0
      * @source https://github.com/HNoise7676/Discord-Plugins
-     * @updateUrl https://github.com/HNoise7676/Discord-Plugins/blob/main/BetterDiscord/asa.js
+     * @updateUrl https://raw.githubusercontent.com/HNoise7676/Discord-Plugins/refs/heads/main/BetterDiscord/asa.js
 */
     module.exports = class Bypass {
 
